@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <booksName xmlns:b="http://w3schools.com/" xmlns:d="http://www.w3.org/TR/html4/">
+  <b:books>
+   <b:name>Professional PHP6</b:name>
+   <b:publication>wrox publication</b:publication>
+  </b:books>
+  <d:books>
+   <d:name>Professional PHP6</d:name>
+   <d:publication>wrox publication</d:publication>
+  </d:books>
+</booksName>
